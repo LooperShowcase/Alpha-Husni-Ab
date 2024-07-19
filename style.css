@@ -1,0 +1,53 @@
+body {
+  background-color: purple;
+}
+p {
+  color: white;
+}
+h1 {
+  color: white;
+}
+a {
+  color: red;
+}
+#name {
+  color: aqua;
+}
+
+#more_info {
+  font-size: 20px;
+}
+p {
+  font-size: 50px;
+}
+#fifa {
+  background-color: red;
+}
+#ufc {
+  background-color: blue;
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: red;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: blue;
+}
+
+  
